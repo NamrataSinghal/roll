@@ -1,0 +1,52 @@
+/*small devices */
+@media only screen and(max-width: 767px){
+     .section-title p{
+        text-align: center;
+    }
+    .social-icons{
+        display: inline;
+    }
+    .footer a{
+        padding-left: 60px;
+    }
+    
+}
+/*small devices and tablets*/
+@media only screen and (max-width:768px){
+    .header-ipone{
+        display: none;
+    }
+    .choose-us-title h2{
+        font-size: 18px;
+        padding-top: 70px;
+        margin-top: 70px;
+    }
+    .header-button{
+        text-align: center;
+    }
+    #two{
+        padding-right: 120px;
+    }
+    .section-title h2{
+        text-align: center;
+    }
+    .section-title p{
+        text-align: center;
+    }
+    .social-icons ul>li>a{
+        display:inline;
+    }
+    .footer p{
+        text-align: center;
+    }
+    .footer a{
+        padding-left: 60px;
+    }
+    
+}
+/*medium devices and desktops */
+@media only screen and (min-width:992px){
+    
+}
+/* large devices and wide screens */
+@media only screen and (min-width:1200px)
